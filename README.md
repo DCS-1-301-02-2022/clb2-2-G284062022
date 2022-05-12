@@ -1,6 +1,6 @@
 # 情報工学科の紹介情報工学科の紹介: 🎓
 
-Takushoku University
+(Takushoku University)
 
 情報工学科
 
